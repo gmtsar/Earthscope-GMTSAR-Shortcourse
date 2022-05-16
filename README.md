@@ -7,7 +7,7 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Kathryn Materna](https://sites.google.com/view/kathrynmaterna/home),
 [Wesley Neely](https://profiles.stanford.edu/wesley-neely),
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
-[Xiaopeng Tong]
+[Xiaopeng Tong] (https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Matt Wei](https://weilaburi.wixsite.com/home),
 [Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
