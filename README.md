@@ -69,7 +69,7 @@ Session 4 – 1.5 hours
 | 17    | Phase filtering and unwrapping theory | Lion |
 | 18    | Phase unwrapping – application – snaphu | Beaver |
 | 19    | ScanSAR and TOPS | Leopard |
-| 20    | MAI-interferogram and Ionospheric correction | Camel |
+| 20    | MAI and Ionospheric correction | Camel |
 | 21    | Batch processing | Elephant |
 #### Breakout session continue with assigned groups
 
