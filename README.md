@@ -5,8 +5,9 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Katherine Guns](https://igpp.ucsd.edu/person/kguns),
 [Eric Lindsey](https://www.planetmechanic.net/about-me),
 [Kathryn Materna](https://sites.google.com/view/kathrynmaterna/home),
-[Rob Mellors](https://igpp.ucsd.edu/person/rmellors),
+[Wesley Neely](https://profiles.stanford.edu/wesley-neely),
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
+[Xiaopeng Tong]
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Matt Wei](https://weilaburi.wixsite.com/home),
 [Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
