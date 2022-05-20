@@ -32,3 +32,19 @@ If you find you are missing a python library (e.g. NetCDF4) when you run the fir
 
 to install the missing library.
 
+## Example 2: How to Download Sentinel-1 data and prepare it for processing
+
+This demo will take you through the steps of:
+
+(1) Searching for and downloading Sentinel-1 SLC data from the Alaska Satellite Facility website
+
+(2) Obtaining the proper supporting files for data processing (e.g. orbit files, DEM grids)
+
+(3) Preparing to process your Sentinel-1 images
+
+(4) Processing your images
+
+(5) Viewing and interpreting the interferogram (after processing is complete)
+
+This workflow can be applied to any specific study area. Additionally, we refer you to other prepared GMTSAR examples (https://topex.ucsd.edu/gmtsar/downloads/), that have undergone steps (1), (2), and (3) already, so you can explore both other examples of Sentinel-1 data, as well as other examples using data from other SAR satellite sources.
+
