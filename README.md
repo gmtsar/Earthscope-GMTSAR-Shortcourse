@@ -23,7 +23,7 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki/GMTSAR-Wiki-Page for installation.
 
 ### Need help?
-Please ask your questions by opening an Issue insde this short course repository. You'll need a github account to do so. You could also write emails to your assigned instructor for help or ask questions in the Slack chatroom. Describe in details of the problems you met and keeping the thread readable will also help others. In cases you have a question during the lecture. We'll have instructors babysitting the chat window, and answer them. If the questions need to be addressed by the lecturing instructor, they will interupt and ask that question on your behalf.  
+Please ask your questions by opening an Issue insde this short course repository. You'll need a github account to do so. You could also write emails to your assigned instructor for help or ask questions in the Slack chatroom. Describe in details of the problems you met and keeping the thread readable will also help others. In cases you have a question during the lecture, we'll have instructors babysitting the chatroom, and answer them. If the questions need to be addressed by the lecturing instructor, they will interupt and ask that question on your behalf.  
 
 ### Slack chat room
 While the lectures go on, we will be holding a Slack chat room where you could pose questions and get answers in real-time. (**TBD**)
