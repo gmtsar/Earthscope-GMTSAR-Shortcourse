@@ -10,6 +10,7 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Xiaopeng Tong](https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Matt Wei](https://weilaburi.wixsite.com/home),
+[Katia Tymofyeyeva](https://igppweb.ucsd.edu/~etymofyeyeva/),
 [Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
 
 ### Assisted by
