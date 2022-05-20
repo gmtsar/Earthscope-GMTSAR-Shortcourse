@@ -53,7 +53,7 @@ Session 2 - 2 hours
 | 09    | Applications – hydrology and crustal fluids | Camel |
 | 10    | Applications – interseismic | Elephant |
 | 11    | Atmosphere and Ionosphere Artifacts | Fox |
-| 12    | SAR data access | Wolf |
+| 12    | SAR missions and data access | Tymofyeyeva |
 #### Breakout session continue with assigned groups
 
 #### DAY-2 – July 23
@@ -70,7 +70,7 @@ Session 4 – 1.5 hours
 |-----------|--------------|--------------|
 | 17    | Phase filtering and unwrapping theory | Lion |
 | 18    | Phase unwrapping – application – snaphu | Beaver |
-| 19    | ScanSAR and TOPS | Leopard |
+| 19    | ScanSAR and TOPS | Xu |
 | 20    | MAI and Ionospheric correction | Camel |
 | 21    | Batch processing | Elephant |
 #### Breakout session continue with assigned groups
