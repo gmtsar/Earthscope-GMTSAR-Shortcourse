@@ -39,40 +39,38 @@ Session 1 - 45 minutes
 |-----------|--------------|--------------|
 | 01    | Introduction/agenda/photos | Sandwell  |
 | 02    | UNAVCO and short courses | Bendick |
-| 03    | Homework, RS, SAR, and InSAR | Sandwell |
-| 04    | GMT Introduction and Student Topo Maps | Lion |
+| 03    | Homework, RS, SAR, InSAR & Topo maps | Sandwell |
 | 05    | On-line Photo for 2021 | Weber |
 
 
 Session 2 - 2 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 06    | Brief Introduction to InSAR | Lion |
-| 07    | Applications – volcanoes | Beaver |
-| 08    | Applications – earthquakes and postseismic | Leopard |
-| 09    | Applications – hydrology and crustal fluids | Camel |
-| 10    | Applications – interseismic | Elephant |
-| 11    | Atmosphere and Ionosphere Artifacts | Fox |
-| 12    | SAR missions and data access | Tymofyeyeva |
+| 05    | Brief Introduction to InSAR | Xu |
+| 06    | SAR Theory and orbits– Appendix A | Sandwell |
+| 07    | SAR Image formation – Appendix B | Lindsey |
+| 08    | SAR acquisition modes | Xu |
+| 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
 #### Breakout session continue with assigned groups
 
 #### DAY-2 – July 23
 Session 3 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 13    | 2-pass processing – tour of data files | Lion |
-| 14    | SAR Theory and orbits– Appendix A | Beaver |
-| 15    | SAR Image formation – Appendix B | Leopard |
-| 16    | InSAR Theory – Appendix C | Camel |
+| 10    | 2-pass processing – tour of data files | Materna |
+| 11    | Phase filtering and phase unwrapping | Wei |
+| 12    | Atmospheric artifacts | Wang |
+| 13    | Batch processing | Guns |
+| 14    | InSAR corrections and time series | Tymofyeyeva |
 
 Session 4 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 17    | Phase filtering and unwrapping theory | Lion |
-| 18    | Phase unwrapping – application – snaphu | Beaver |
-| 19    | ScanSAR and TOPS | Xu |
-| 20    | MAI and Ionospheric correction | Camel |
-| 21    | Batch processing | Elephant |
+| 15    | Applications – volcanoes | Tong |
+| 16    | Applications – earthquakes and postseismic | Wang |
+| 17    | Applications – hydrology and crustal fluids | Neely |
+| 18    | Applications – interseismic | Lindsey |
+
 #### Breakout session continue with assigned groups
 
 
