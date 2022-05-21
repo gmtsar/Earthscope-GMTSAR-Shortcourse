@@ -32,7 +32,7 @@ While the lectures go on, we will be holding a Slack chat room where you could p
 All course materials including slides, notes and video records will be uploaded to a shared Google Drive. (**TBD**)
 
 ### Plenary Sessions
-July 11-12 (Monday - Tuesday), 2022, 10AM PDT - 1PM PDT (plus continuted breakout sessions)
+July 11-12 (Monday - Tuesday), 2022, 10AM PDT - 1PM PDT (plus continued breakout sessions)
 #### DAY-1 -  July 11:
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
