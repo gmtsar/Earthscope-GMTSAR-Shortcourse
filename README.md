@@ -48,7 +48,7 @@ Session 2 - 2 hours
 |-----------|--------------|--------------|
 | 05    | Brief Introduction to InSAR | Xu |
 | 06    | SAR Theory and orbits– Appendix A | Sandwell |
-| 07    | SAR Image formation – Appendix B | Lindsey |
+| 07    | InSAR theory – Appendix B | Lindsey |
 | 08    | SAR acquisition modes | Xu |
 | 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
 #### Breakout session continue with assigned groups
