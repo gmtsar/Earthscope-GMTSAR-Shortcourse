@@ -53,7 +53,7 @@ Session 2 - 2 hours
 | 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
 #### Breakout session continue with assigned groups
 
-#### DAY-2 – July 23
+#### DAY-2 – July 13
 Session 3 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
