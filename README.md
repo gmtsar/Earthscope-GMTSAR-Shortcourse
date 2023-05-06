@@ -1,5 +1,5 @@
-# 2022-unavco-course-GMTSAR
-This is a short course repository for the 2020 UNAVCO GMTSAR short course
+# 2023-GAGE-Short-Course-GMTSAR
+This is a short course repository for the 2023 GAGE GMTSAR short course
 
 ### Instructors:
 [Katherine Guns](https://igpp.ucsd.edu/person/kguns),
@@ -10,6 +10,7 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Xiaopeng Tong](https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Matt Wei](https://weilaburi.wixsite.com/home),
+[Wojciech Milczarek](https://wggg.pwr.edu.pl/en/employees/wojciech-milczarek),
 [Katia Tymofyeyeva](https://igppweb.ucsd.edu/~etymofyeyeva/),
 [Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
 
@@ -26,14 +27,14 @@ Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki/GMTSA
 Please ask your questions by opening an Issue insde this short course repository. You'll need a github account to do so. You could also write emails to your assigned instructor for help or ask questions in the Slack chatroom. Describe in details of the problems you met and keeping the thread readable will also help others. In cases you have a question during the lecture, we'll have instructors babysitting the chatroom, and answer them. If the questions need to be addressed by the lecturing instructor, they will interupt and ask that question on your behalf.  
 
 ### Slack chat room
-While the lectures go on, we will be holding a Slack chat room where you could pose questions and get answers in real-time. (**TBD**)
+While the lectures go on, we will be holding a Slack chat room where you could pose questions and get answers in real-time. (Link **TBD**)
 
 ### Course Materials:
-All course materials including slides, notes and video records will be uploaded to a shared Google Drive. (**TBD**)
+All course materials including slides, notes and video records will be uploaded to a shared Google Drive/Youtube. (Link **TBD**)
 
 ### Plenary Sessions
-July 11-12 (Monday - Tuesday), 2022, 10AM PDT - 1PM PDT (plus continued breakout sessions)
-#### DAY-1 -  July 11:
+July 25-26 (Tuesday - Wednesday), 2022, 10AM PDT - 1PM PDT (plus continued breakout sessions)
+#### DAY-1 -  July 25:
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
@@ -53,7 +54,7 @@ Session 2 - 2 hours
 | 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
 #### Breakout session continue with assigned groups
 
-#### DAY-2 – July 12
+#### DAY-2 – July 26
 Session 3 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
@@ -70,6 +71,7 @@ Session 4 – 1.5 hours
 | 16    | Applications – earthquakes and postseismic | Wang |
 | 17    | Applications – hydrology and crustal fluids | Neely |
 | 18    | Applications – interseismic | Lindsey |
+| 19    | Applications – infrastructures | Milczarek |
 
 #### Breakout session continue with assigned groups
 
