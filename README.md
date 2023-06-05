@@ -1,4 +1,4 @@
-# 2023-GAGE-Short-Course-GMTSAR
+# 2023-Earthscope-Short-Course-GMTSAR
 This is a short course repository for the 2023 GAGE GMTSAR short course
 
 ### Instructors:
