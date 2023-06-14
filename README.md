@@ -30,7 +30,7 @@ Please ask your questions by opening an Issue insde this short course repository
 While the lectures go on, we will be holding a Slack chat room where you could pose questions and get answers in real-time. (Link **TBD**)
 
 ### Course Materials:
-All course materials including slides, notes and video records will be uploaded to a shared Google Drive/Youtube. (Link **TBD**)
+All course materials including slides, notes and video records will be uploaded to a shared Google Drive/Youtube. (Link https://drive.google.com/drive/folders/1hfO51thTyiU62zlHgm7PZl0ZCmYi8nCd?usp=drive_link )
 
 ### Plenary Sessions
 July 25-26 (Tuesday - Wednesday), 2022, 10AM PDT - 1PM PDT (plus continued breakout sessions)
