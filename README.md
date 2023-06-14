@@ -23,6 +23,9 @@ This is a short course repository for the 2023 GAGE GMTSAR short course
 ### Installation:
 Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki/GMTSAR-Wiki-Page for installation.
 
+### Documentation, Book, Sample Data Sets:
+https://topex.ucsd.edu/gmtsar/downloads/
+
 ### Need help?
 Please ask your questions by opening an Issue insde this short course repository. You'll need a github account to do so. You could also write emails to your assigned instructor for help or ask questions in the Slack chatroom. Describe in details of the problems you met and keeping the thread readable will also help others. In cases you have a question during the lecture, we'll have instructors babysitting the chatroom, and answer them. If the questions need to be addressed by the lecturing instructor, they will interupt and ask that question on your behalf.  
 
