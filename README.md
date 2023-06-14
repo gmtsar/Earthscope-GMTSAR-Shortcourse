@@ -2,17 +2,19 @@
 This is a short course repository for the 2023 GAGE GMTSAR short course
 
 ### Instructors:
+[David Sandwell](https://topex.ucsd.edu/sandwell/),
+[Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
+[Matt Wei](https://weilaburi.wixsite.com/home),
+[Xiaopeng Tong](https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
 [Katherine Guns](https://igpp.ucsd.edu/person/kguns),
 [Eric Lindsey](https://www.planetmechanic.net/about-me),
+[Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Kathryn Materna](https://sites.google.com/view/kathrynmaterna/home),
 [Wesley Neely](https://profiles.stanford.edu/wesley-neely),
-[David Sandwell](https://topex.ucsd.edu/sandwell/),
-[Xiaopeng Tong](https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
-[Kang Wang](http://seismo.berkeley.edu/~kwang/),
-[Matt Wei](https://weilaburi.wixsite.com/home),
 [Wojciech Milczarek](https://wggg.pwr.edu.pl/en/employees/wojciech-milczarek),
 [Katia Tymofyeyeva](https://igppweb.ucsd.edu/~etymofyeyeva/),
-[Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
+[Wanpeng Feng](https://www.researchgate.net/profile/Wanpeng-Feng),
+[Wei Tang](https://dcxy.cumtb.edu.cn/info/1011/3827.htm)
 
 ### Assisted by
 [Rebecca Bendick](https://www.unavco.org/about/organization/president/president.html),
@@ -36,10 +38,10 @@ While the lectures go on, we will be holding a Slack chat room where you could p
 All course materials including slides, notes and video records will be uploaded to a shared Google Drive/Youtube. (Link https://drive.google.com/drive/folders/1hfO51thTyiU62zlHgm7PZl0ZCmYi8nCd?usp=drive_link )
 
 ### Homework Assignments:
-Please complete these homework assignments during the month before the plenary session with help from your instructor. https://docs.google.com/document/d/1DxYpeX0opKJId_JAwHnhn6TdTXrv9YCd/edit?usp=drive_link&ouid=115663402152996782024&rtpof=true&sd=true
+Please complete these homework assignments during the month before the plenary session with help from your instructor. https://docs.google.com/document/d/1DxYpeX0opKJId_JAwHnhn6TdTXrv9YCd/edit?usp=sharing&ouid=104842063779453661156&rtpof=true&sd=true 
 
 ### Plenary Sessions
-July 25-26 (Tuesday - Wednesday), 2022, 10AM PDT - 1PM PDT (plus continued breakout sessions)
+July 25-26 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT (plus continued breakout sessions)
 #### DAY-1 -  July 25:
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
