@@ -32,6 +32,9 @@ While the lectures go on, we will be holding a Slack chat room where you could p
 ### Course Materials:
 All course materials including slides, notes and video records will be uploaded to a shared Google Drive/Youtube. (Link https://drive.google.com/drive/folders/1hfO51thTyiU62zlHgm7PZl0ZCmYi8nCd?usp=drive_link )
 
+### Homework Assignments:
+Please complete these homework assignments during the month before the plenary session with help from your instructor. https://docs.google.com/document/d/1DxYpeX0opKJId_JAwHnhn6TdTXrv9YCd/edit?usp=drive_link&ouid=115663402152996782024&rtpof=true&sd=true
+
 ### Plenary Sessions
 July 25-26 (Tuesday - Wednesday), 2022, 10AM PDT - 1PM PDT (plus continued breakout sessions)
 #### DAY-1 -  July 25:
