@@ -56,8 +56,8 @@ Session 2 - 2 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 05    | Brief Introduction to GMTSAR | Xu |
-| 06    | SAR Theory and orbits– Appendix A | Sandwell |
-| 07    | InSAR theory – Appendix B | Lindsey |
+| 06    | SAR Theory and orbits | Sandwell |
+| 07    | InSAR theory | Lindsey |
 | 08    | SAR acquisition modes | Xu |
 | 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
 #### Breakout session continue with assigned groups
