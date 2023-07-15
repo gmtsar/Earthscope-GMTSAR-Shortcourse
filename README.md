@@ -49,7 +49,7 @@ Session 1 - 45 minutes
 | 01    | Introduction/agenda/photos | Sandwell  |
 | 02    | UNAVCO and short courses | Bendick |
 | 03    | Homework, RS, SAR, InSAR & Topo maps | Sandwell |
-| 05    | On-line Photo for 2023 | Weber |
+| 04    | On-line Photo for 2023 | Weber |
 
 
 Session 2 - 2 hours
