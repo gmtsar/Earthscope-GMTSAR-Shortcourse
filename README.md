@@ -68,9 +68,9 @@ Session 3 – 1.5 hours
 |-----------|--------------|--------------|
 | 10    | 2-pass processing – tour of data files | Materna |
 | 11    | Phase filtering and phase unwrapping | Wei |
-| 12    | Atmospheric artifacts | Wang |
+| 12    | Atmospheric artifacts | TBD |
 | 13    | Batch processing | Guns |
-| 14    | InSAR corrections and time series | Tymofyeyeva |
+| 14    | InSAR corrections and time series | TBD |
 
 Session 4 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
