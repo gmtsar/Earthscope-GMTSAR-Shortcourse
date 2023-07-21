@@ -41,7 +41,7 @@ All course materials including slides, notes and video records will be uploaded 
 Please complete these homework assignments during the month before the plenary session with help from your instructor. https://docs.google.com/document/d/1DxYpeX0opKJId_JAwHnhn6TdTXrv9YCd/edit?usp=sharing&ouid=104842063779453661156&rtpof=true&sd=true 
 
 ### Plenary Sessions
-July 25-26 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT (plus continued breakout sessions)
+July 25-26 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT 
 #### DAY-1 -  July 25:
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
@@ -60,7 +60,6 @@ Session 2 - 2 hours
 | 07    | InSAR theory | Lindsey |
 | 08    | SAR acquisition modes | Xu |
 | 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
-#### Breakout session continue with assigned groups
 
 #### DAY-2 – July 26
 Session 3 – 1.5 hours
@@ -80,6 +79,12 @@ Session 4 – 1.5 hours
 | 18    | Applications – interseismic | Lindsey |
 | 19    | Applications – infrastructures | Milczarek |
 
-#### Breakout session continue with assigned groups
+#### DAY-3 – July 27
+Student presentations in small groups ~1 hour. Time TBD
+
+#### DAY-4 – July 28
+Selected student presentations to entire group. 10AM PDT - 
+
+
 
 
