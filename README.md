@@ -17,9 +17,9 @@ This is a short course repository for the 2023 GAGE GMTSAR short course
 [Wei Tang](https://dcxy.cumtb.edu.cn/info/1011/3827.htm)
 
 ### Assisted by
-[Rebecca Bendick](https://www.unavco.org/about/organization/president/president.html),
-[Donna Charlevoix](https://connect.unavco.org/display/per968358),
-[Melissa Weber](https://connect.unavco.org/display/per018591),
+[Rebecca Bendick](https://www.earthscope.org/news/selection-ceo-bendick),
+[Donna Charlevoix](https://www.earthscope.org/staff/donna-charlevoix),
+[Melissa Weber](https://www.earthscope.org/staff/melissa-weber),
 
 
 ### Installation:
@@ -47,7 +47,7 @@ Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 01    | Introduction/agenda/photos | Sandwell  |
-| 02    | UNAVCO and short courses | Bendick |
+| 02    | Earthscope and short courses | Bendick |
 | 03    | Homework, RS, SAR, InSAR & Topo maps | Sandwell |
 | 04    | On-line Photo for 2023 | Weber |
 
