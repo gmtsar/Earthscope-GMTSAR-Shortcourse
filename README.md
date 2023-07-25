@@ -59,12 +59,13 @@ Session 2 - 2 hours
 | 06    | SAR Theory and orbits | Sandwell |
 | 07    | InSAR theory | Lindsey |
 | 08    | SAR acquisition modes | Xu |
-| 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
+
 
 #### DAY-2 – July 26
 Session 3 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
+| 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
 | 10    | 2-pass processing – tour of data files | Materna |
 | 11    | Phase filtering and phase unwrapping | Wei |
 | 12    | Atmospheric artifacts | Wang |
@@ -73,11 +74,11 @@ Session 3 – 1.5 hours
 Session 4 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 15    | Applications – volcanoes | Tong |
 | 16    | Applications – earthquakes and postseismic | Wang |
 | 17    | Applications – hydrology and crustal fluids | Neely |
 | 18    | Applications – interseismic | Lindsey |
 | 19    | Applications – infrastructures | Milczarek |
+| 15    | Applications – volcanoes | Tong |
 
 #### DAY-3 – July 27
 Student presentations in small groups ~1 hour. Time TBD
