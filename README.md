@@ -62,7 +62,7 @@ Session 2 - 2 hours
 
 
 #### DAY-2 – July 26
-Session 3 – 1.5 hours
+Session 3 – 1.5 hours - Moderator: Kathryn Materna
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
@@ -71,7 +71,7 @@ Session 3 – 1.5 hours
 | 12    | Atmospheric artifacts | Wang |
 | 13-14 | Batch processing and time series| Guns |
 
-Session 4 – 1.5 hours
+Session 4 – 1.5 hours - Moderator: Eric Lindsey
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 16    | Applications – earthquakes and postseismic | Wang |
