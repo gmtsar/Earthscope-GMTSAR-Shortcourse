@@ -70,7 +70,7 @@ Session 3 – 1.5 hours - Moderator: Kathryn Materna
 | 11    | Phase filtering and phase unwrapping | Wei |
 | 12    | Atmospheric artifacts | Wang |
 | 13-14 | Batch processing and time series| Guns |
-| Time Series Discussion | Tymofyeyeva |
+| | Time Series Discussion | Tymofyeyeva |
 
 Session 4 – 1.5 hours - Moderator: Eric Lindsey
 | **Number** | **Theme** | **Instructor** |
