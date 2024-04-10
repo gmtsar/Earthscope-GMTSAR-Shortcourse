@@ -1,16 +1,16 @@
-# 2023-Earthscope-Short-Course-GMTSAR
+# 2024-Earthscope-Short-Course-GMTSAR
 This is a short course repository for the 2023 GAGE GMTSAR short course
 
 ### Instructors:
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
 [Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
+[Ann Chen](https://www.ae.utexas.edu/people/faculty/faculty-directory/chen),
 [Matt Wei](https://weilaburi.wixsite.com/home),
 [Xiaopeng Tong](https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
 [Katherine Guns](https://igpp.ucsd.edu/person/kguns),
 [Eric Lindsey](https://www.planetmechanic.net/about-me),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
 [Kathryn Materna](https://sites.google.com/view/kathrynmaterna/home),
-[Wesley Neely](https://profiles.stanford.edu/wesley-neely),
 [Wojciech Milczarek](https://wggg.pwr.edu.pl/en/employees/wojciech-milczarek),
 [Katia Tymofyeyeva](https://igppweb.ucsd.edu/~etymofyeyeva/),
 [Wanpeng Feng](https://www.researchgate.net/profile/Wanpeng-Feng),
@@ -41,55 +41,55 @@ All course materials including slides, notes and video records will be uploaded 
 Please complete these homework assignments during the month before the plenary session with help from your instructor. https://docs.google.com/document/d/1DxYpeX0opKJId_JAwHnhn6TdTXrv9YCd/edit?usp=sharing&ouid=104842063779453661156&rtpof=true&sd=true 
 
 ### Plenary Sessions
-July 25-26 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT 
-#### DAY-1 -  July 25:
+July 1-2 and July 18 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT 
+#### DAY-1 -  July 1:
 Video - Day 1 https://youtu.be/ffc-xhPmVcA 
 
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 01    | Introduction/agenda/photos | Sandwell  |
-| 02    | Earthscope and short courses | Bendick |
-| 03    | Homework, RS, SAR, InSAR & Topo maps | Sandwell |
-| 04    | On-line Photo for 2023 | Weber |
+| 01    | Introduction/agenda/photos |
+| 02    | Earthscope and short courses |
+| 03    | Homework, RS, SAR, InSAR & Topo maps |
+| 04    | On-line Photo for 2023 |
 
 
 Session 2 - 2 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 05    | Brief Introduction to GMTSAR | Xu |
-| 06    | SAR Theory and orbits | Sandwell |
-| 07    | InSAR theory | Lindsey |
-| 08    | SAR acquisition modes | Xu |
+| 05    | Brief Introduction to GMTSAR |
+| 06    | SAR Theory and orbits |
+| 07    | InSAR theory |
+| 08    | SAR acquisition modes |
 
 
-#### DAY-2 – July 26
+#### DAY-2 – July 2
 Video - Day 2 https://youtu.be/koESQD2DAdc
 
 Session 3 – 1.5 hours - Moderator: Kathryn Materna
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 09    | SAR data access, NISAR and CGM | Tymofyeyeva |
-| 10    | 2-pass processing – tour of data files | Materna |
-| 11    | Phase filtering and phase unwrapping | Wei |
-| 12    | Atmospheric artifacts | Wang |
-| 13-14 | Batch processing and time series| Guns |
-| | Time series discussion | Tymofyeyeva |
+| 09    | SAR data access, NISAR and CGM | 
+| 10    | 2-pass processing – tour of data files | 
+| 11    | Phase filtering and phase unwrapping |
+| 12    | Atmospheric artifacts |
+| 13-14 | Batch processing and time series| 
+| | Time series discussion | 
 
 Session 4 – 1.5 hours - Moderator: Eric Lindsey
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 16    | Applications – earthquakes and postseismic | Wang |
-| 17    | Applications – hydrology and crustal fluids | Neely |
-| 18    | Applications – interseismic | Lindsey |
-| 19    | Applications – infrastructures | Milczarek |
-| 15    | Applications – volcanoes | Tong |
+| 16    | Applications – earthquakes and postseismic | 
+| 17    | Applications – hydrology and crustal fluids | 
+| 18    | Applications – interseismic | 
+| 19    | Applications – infrastructures | 
+| 15    | Applications – volcanoes | 
 
-#### DAY-3 – July 27
+#### DAY-3 – July 17
 Student presentations in small groups ~1 hour. Time TBD
 
-#### DAY-4 – July 28
-Vodeo - Student Presentations https://youtu.be/1XwINKlS-Mg
+#### DAY-4 – July 18
+Vodeo - Student Presentations
 
 Selected student presentations to entire group. 10AM PDT - 
 
