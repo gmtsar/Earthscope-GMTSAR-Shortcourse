@@ -43,7 +43,7 @@ Please complete these homework assignments during the month before the plenary s
 ### Plenary Sessions
 July 1-2 and July 18 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT 
 #### DAY-1 -  July 1:
-Video - Day 1 https://youtu.be/ffc-xhPmVcA 
+Video - Day 1 (2023) https://youtu.be/ffc-xhPmVcA 
 
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
@@ -64,7 +64,7 @@ Session 2 - 2 hours
 
 
 #### DAY-2 – July 2
-Video - Day 2 https://youtu.be/koESQD2DAdc
+Video - Day 2 (2023) https://youtu.be/koESQD2DAdc
 
 Session 3 – 1.5 hours - Moderator: Kathryn Materna
 | **Number** | **Theme** | **Instructor** |
