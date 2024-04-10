@@ -23,7 +23,7 @@ This is a short course repository for the 2023 GAGE GMTSAR short course
 
 
 ### Installation:
-Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki/GMTSAR-Wiki-Page for installation.
+Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki for installation.
 
 ### Documentation, Book, Sample Data Sets:
 https://topex.ucsd.edu/gmtsar/downloads/
