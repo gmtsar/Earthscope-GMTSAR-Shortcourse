@@ -1,5 +1,5 @@
 # 2024-Earthscope-Short-Course-GMTSAR
-This is a short course repository for the 2023 GAGE GMTSAR short course
+This is a short course repository for the 2024 GAGE GMTSAR short course
 
 ### Instructors:
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
