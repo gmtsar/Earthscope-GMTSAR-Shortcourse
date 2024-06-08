@@ -3,7 +3,7 @@ This is a short course repository for the 2024 GAGE GMTSAR short course
 
 ### Instructors:
 [David Sandwell](https://topex.ucsd.edu/sandwell/),
-[Xiaohua Xu](https://ig.utexas.edu/staff/xiaohua-eric-xu/),
+[Xiaohua Xu](https://faculty.ustc.edu.cn/xuxiaohua12/en/index.htm),
 [Ann Chen](https://www.ae.utexas.edu/people/faculty/faculty-directory/chen),
 [Matt Wei](https://weilaburi.wixsite.com/home),
 [Xiaopeng Tong](https://scholar.google.com/citations?hl=en&user=pFj50-sAAAAJ),
@@ -41,9 +41,9 @@ All course materials including slides, notes and video records will be uploaded 
 Please complete these homework assignments during the month before the plenary session with help from your instructor. https://docs.google.com/document/d/1DxYpeX0opKJId_JAwHnhn6TdTXrv9YCd/edit?usp=sharing&ouid=104842063779453661156&rtpof=true&sd=true 
 
 ### Plenary Sessions
-July 1-2 and July 18 (Tuesday - Wednesday), 2023, 10AM PDT - 1PM PDT 
+July 1-2 and July 18 (Tuesday - Wednesday), 2024, 10AM PDT - 1PM PDT 
 #### DAY-1 -  July 1:
-Video - Day 1 (2023) https://youtu.be/ffc-xhPmVcA 
+Video - Day 1 ([2023 recordings](https://youtu.be/ffc-xhPmVcA)）  
 
 Session 1 - 45 minutes
 | **Number** | **Theme** | **Instructor** |
@@ -64,7 +64,7 @@ Session 2 - 2 hours
 
 
 #### DAY-2 – July 2
-Video - Day 2 (2023) https://youtu.be/koESQD2DAdc
+Video - Day 2 ([2023 recordings](https://youtu.be/koESQD2DAdc)) 
 
 Session 3 – 1.5 hours - Moderator: Kathryn Materna
 | **Number** | **Theme** | **Instructor** |
